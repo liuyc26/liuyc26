@@ -1,7 +1,7 @@
 ### Hello friend 👋
 - 👨🏻‍💻 I'm currently working as a **Software Developer**
-- 🔭 I’m currently working on **Subdomain Monitor**
-- 🌱 I’m currently learning **Golang**
+- 🔭 I’m currently working on **My own HTTP Server**
+- 🌱 I’m currently learning **Really basic stuff**
 <!---
 - 👯 I’m looking to collaborate on **exciting security projects**
 - 🤔 I’m looking for help with **Cloud Security IAM**
@@ -10,7 +10,3 @@
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: 
 --->
-
----
-
-![Metrics](/github-metrics.svg)
